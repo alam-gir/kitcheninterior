@@ -11,6 +11,18 @@ body{
   margin: auto;
 }
 
+/* scrollbar style */
+
+::-webkit-scrollbar{
+  width: 5px;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #38A837;
+}
+::-webkit-scrollbar-track{
+  background-color: #26313C;
+}
+
 h1{
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
