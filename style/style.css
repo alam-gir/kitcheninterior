@@ -98,6 +98,7 @@ header{
   width: 100%;
   object-fit: cover;
   position: absolute;
+  left: 0;
 
 }
 
@@ -302,6 +303,7 @@ span i{
   height: auto;
   width: 100%;
   padding: 80px 15px 0;
+  overflow: hidden;
 }
 
 
